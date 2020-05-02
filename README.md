@@ -35,7 +35,7 @@ On the other hand,  World Bank open data for countries is a general and versatil
 
 Jupyter notebook with Python help to explore and prepare data efficiently. Throughout the framework, data is handled as Pandas data-frames. Python matplotlib and seaborn libraries are used as required to visualize and explore the data. Since World-Bank dataset has many features, exploratory analysis techniques are required to effectively prepare data for accurate modelling.
 
-![Image description]https://drive.google.com/file/d/1v9rawRq0BqbbzVh2qoUJ3TsP_3dK0P3B/view?usp=sharing
+![Image description](https://drive.google.com/file/d/1v9rawRq0BqbbzVh2qoUJ3TsP_3dK0P3B/view?usp=sharing)
 
 The framework adopted LightGBM gradient-boosting decision-tree based machine learning algorithm to design and implement classification and regression models. This algorithm is being used quite effectively in industry to model structured data. It has following advantages [6]:
  - Faster training speed and higher efficiency,
