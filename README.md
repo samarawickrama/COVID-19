@@ -47,3 +47,24 @@ Once the model is trained, the framework then facilitates important-feature anal
 ## Conclusion
 
 Many research data has been published related to COVID-19 and it is required for fast analysis of these data and communicate the insights (i.e., prescriptive analytics) to community to improve the health and wellbeing. Because of the high dimensionality of the data, data-science capabilities around this COVID-19 data analysis need to be enhanced. This proposed framework enables rapid prototyping of data-science modelling of COVID-19 data with countries statistics which effectively democratize COVID-19 related data science and analytics.
+
+## Future Work
+
+There are many datasets emerging which will enhance the knowledge if they are properly analyzed in unified way. Following datasets are being planned to be incorporated with the proposed framework.
+
+Further, we are planning to analyse the data in suburb level by incorporating the census data of countries.
+
+##References
+
+ - [1] Xu, B., Gutierrez, B., Mekaru, S. et al. Epidemiological data from the COVID-19 outbreak, real-time case information. Sci Data 7, 106 (2020). https://doi.org/10.1038/s41597-020-0448-0
+ - [2] Dong, E., Du, H., & Gardner, L. (2020). An interactive web-based dashboard to track COVID-19 in real-time. The Lancet Infectious Diseases. https://doi.org/10.1016/S1473-3099(20)30120-1
+ - [3] Callaghan S. COVID-19 Is a Data Science Issue. Patterns. 2020 Apr 7:100022. doi: 10.1016/j.patter.2020.100022. Epub ahead of print. PMCID: PMC7144860.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7144860/
+ - [4] Dataset provided by Johns Hopkins university and worldometers.info
+https://ahmednafies.github.io/covid/
+ - [5] World Bank Open Data
+https://data.worldbank.org/
+ - [6] LightGBM, Light Gradient Boosting Machine
+https://github.com/microsoft/LightGBM
+ - [7] SHAP (SHapley Additive exPlanations)
+https://github.com/slundberg/shap
