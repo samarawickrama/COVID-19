@@ -57,14 +57,20 @@ Further, we are planning to analyse the data in suburb level by incorporating th
 ## References
 
 [1] Xu, B., Gutierrez, B., Mekaru, S. et al. Epidemiological data from the COVID-19 outbreak, real-time case information. Sci Data 7, 106 (2020). https://doi.org/10.1038/s41597-020-0448-0
+
 [2] Dong, E., Du, H., & Gardner, L. (2020). An interactive web-based dashboard to track COVID-19 in real-time. The Lancet Infectious Diseases. https://doi.org/10.1016/S1473-3099(20)30120-1
+
 [3] Callaghan S. COVID-19 Is a Data Science Issue. Patterns. 2020 Apr 7:100022. doi: 10.1016/j.patter.2020.100022. Epub ahead of print. PMCID: PMC7144860.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7144860/
+
 [4] Dataset provided by Johns Hopkins university and worldometers.info
 https://ahmednafies.github.io/covid/
+
 [5] World Bank Open Data
 https://data.worldbank.org/
+
 [6] LightGBM, Light Gradient Boosting Machine
 https://github.com/microsoft/LightGBM
+
 [7] SHAP (SHapley Additive exPlanations)
 https://github.com/slundberg/shap
