@@ -13,6 +13,7 @@ This is a framework for rapid prototyping data-Science modelling of COVID-19 dat
 This framework is developed using Jupyter notebook and Python libraries. Users can install Jupyter notebook easily by installing Anaconda. Any platform which supports Jupyter notebook can be used (e.g., AWS Sagemaker). The Jupyter notebook project is available in Github.
 
 ## Datasets
+
 To demonstrate the framework, two widely used datasets were used. They are: 
 
 1) Johns Hopkins University (JHU) and Worldometers.info open data for COVID-19 statistics of countries
@@ -23,3 +24,26 @@ The data is available as Python libraries. Users can access this data by importi
 Following are important references to the used libraries.
 
 However, users do not want to limit to above data or libraries as many data sources are available to easily integrate with this framework.
+
+## Methodology
+
+The platform is demonstrated using Johns Hopkins University (JHU) and Worldometers.info open data for COVID-19 [4] and World Bank open data for countries [5]. The data is imported to the framework using published Python libraries (as given in the above section).
+
+In Johns Hopkins University (JHU) and Worldometers.info open data for COVID-19, the countries' statistics related to confirmed, active, recovered and deaths cases are provided together with updated date.
+
+On the other hand,  World Bank open data for countries is a general and versatile dateset which provides diversified statistics related to multiple topics. It is not developed focusing COVID-19 crisis. This data-set has countries' statistics related to the following 21 topics.
+
+Jupyter notebook with Python help to explore and prepare data efficiently. Throughout the framework, data is handled as Pandas data-frames. Python matplotlib and seaborn libraries are used as required to visualize and explore the data. Since World-Bank dataset has many features, exploratory analysis techniques are required to effectively prepare data for accurate modelling.
+
+The framework adopted LightGBM gradient-boosting decision-tree based machine learning algorithm to design and implement classification and regression models. This algorithm is being used quite effectively in industry to model structured data. It has following advantages [6]:
+ - Faster training speed and higher efficiency,
+ - Lower memory usage,
+ - Better accuracy,
+ - Support of parallel and GPU learning
+ - Capable of handling large-scale data.
+
+Once the model is trained, the framework then facilitates important-feature analysis based on high-ranked features of the LightGBM algorithm. This includes adaptation of SHAP (SHapley Additive exPlanations) library which enables to evaluate the trained machine-learning models using the incorporated features using a game theoretic approach [7]. This enables reasoning and prescription related to the hypothesis. The framework also facilitates evaluation of the training and testing performances. The important-feature analysis and performance analysis stages are important to optimize the model by tuning and retraining the models.
+
+## Conclusion
+
+Many research data has been published related to COVID-19 and it is required for fast analysis of these data and communicate the insights (i.e., prescriptive analytics) to community to improve the health and wellbeing. Because of the high dimensionality of the data, data-science capabilities around this COVID-19 data analysis need to be enhanced. This proposed framework enables rapid prototyping of data-science modelling of COVID-19 data with countries statistics which effectively democratize COVID-19 related data science and analytics.
