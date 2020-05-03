@@ -70,6 +70,11 @@ Many datasets are emerging which will enhance the knowledge if they are properly
 
 Further, we are planning to analyse the data in the suburb level by incorporating the census data of countries.
 
+- https://www.abs.gov.au/census
+- https://www.abs.gov.au/census
+- https://data.nsw.gov.au/data/dataset/covid-19-cases-by-location/resource/21304414-1ff1-4243-a5d2-f52778048b29
+- https://www.census.gov/
+
 ## References
 
 [1] Xu, B., Gutierrez, B., Mekaru, S. et al. Epidemiological data from the COVID-19 outbreak, real-time case information. Sci Data 7, 106 (2020). https://doi.org/10.1038/s41597-020-0448-0
