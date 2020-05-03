@@ -24,6 +24,11 @@ The data is available as Python libraries. Users can access this data by importi
 
 Following are important references to the used libraries.
 
+- https://ahmednafies.github.io/covid/
+- https://pypi.org/project/covid/
+- https://wbdata.readthedocs.io/en/stable/
+- https://pypi.org/project/world-bank-data/
+
 However, users do not want to limit to above data or libraries as many data sources are available to easily integrate with this framework.
 
 ## Methodology
