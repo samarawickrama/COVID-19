@@ -18,7 +18,7 @@ This framework is developed using Jupyter notebook and Python libraries. Users c
 To demonstrate the framework, two widely used datasets were used. They are: 
 
 1) [Johns Hopkins University (JHU) and Worldometers.info open data for COVID-19 statistics of countries](https://ahmednafies.github.io/covid/)
-2) World Bank open data for countries data and statistics
+2) [World Bank open data for countries data and statistics](https://data.worldbank.org/)
 
 The data is available as Python libraries. Users can access this data by importing the libraries. The libraries have appropriate APIs to access the data.
 
