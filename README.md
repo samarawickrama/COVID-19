@@ -60,6 +60,14 @@ Many research data has been published related to COVID-19 and it is required for
 
 Many datasets are emerging which will enhance the knowledge if they are properly analyzed in an unified way. Following datasets are being planned to be incorporated with the proposed framework.
 
+- https://dataverse.harvard.edu/dataverse/2019ncov
+- https://github.com/datasets/covid-19
+- https://www.tableau.com/covid-19-coronavirus-data-resources
+- https://ourworldindata.org/coronavirus-source-data
+- https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+- https://data.nsw.gov.au/nsw-covid-19-data
+- https://zenodo.org/record/3727291#.Xq40o5kRWUl
+
 Further, we are planning to analyse the data in the suburb level by incorporating the census data of countries.
 
 ## References
