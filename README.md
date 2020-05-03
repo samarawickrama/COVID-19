@@ -1,5 +1,7 @@
 # A Framework for Rapid Prototyping Data-Science Modelling of COVID-19 Data with Countries' Statistics
 
+![Image description](https://raw.githubusercontent.com/samarawickrama/COVID-19/master/Resources/Images/GitHub_Covid_Logo.png)
+
 ## Introduction
 
 COVID-19 became a global pandemic which has impacted human life in every aspect. Because the infection is fast spreading and endangering human life, immediate actions need to be taken to prevent the disease in the community level. By now every country has faced COVID-19 pandemic and their statistics show greater diversities. It is not quite obvious what the qualities, factors and strategies should be to focus on short-term and long-term, to   effectively face COVID-19 and similar pandemics [1, 2].
