@@ -1,4 +1,5 @@
-# A Framework for Rapid Prototyping Data-Science Modelling of COVID-19 Data with Countries' Statistics ![Image description](https://raw.githubusercontent.com/samarawickrama/COVID-19/master/Resources/Images/GitHub_Covid_Logo.png)
+# A Framework for Rapid Prototyping Data-Science Modelling of COVID-19 Data with Countries' Statistics 
+![Image description](https://raw.githubusercontent.com/samarawickrama/COVID-19/master/Resources/Images/GitHub_Covid_Logo.png)
 
 ## Introduction
 
