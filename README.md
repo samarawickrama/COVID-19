@@ -33,7 +33,7 @@ However, users do not want to limit to above data or libraries as many data sour
 
 ## Methodology
 
-The platform is demonstrated using Johns Hopkins University (JHU) and Worldometers.info open data for COVID-19 [4] and World Bank open data for countries [5]. The data is imported to the framework using published Python libraries (as given in the above section).
+The platform is demonstrated using [Johns Hopkins University (JHU) and Worldometers.info open data for COVID-19](https://ahmednafies.github.io/covid/) [4] and [World Bank open data for countries](https://data.worldbank.org/) [5]. The data is imported to the framework using published Python libraries (as given in the above section).
 
 In Johns Hopkins University (JHU) and Worldometers.info open data for COVID-19, the countries' statistics related to confirmed, active, recovered and deaths cases are provided together with updated date.
 
