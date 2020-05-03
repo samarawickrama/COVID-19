@@ -44,17 +44,17 @@ The framework adopted LightGBM gradient-boosting decision-tree based machine lea
  - Support of parallel and GPU learning
  - Capable of handling large-scale data.
 
-Once the model is trained, the framework then facilitates important-feature analysis based on high-ranked features of the LightGBM algorithm. This includes adaptation of SHAP (SHapley Additive exPlanations) library which enables to evaluate the trained machine-learning models using the incorporated features using a game theoretic approach [7]. This enables reasoning and prescription related to the hypothesis. The framework also facilitates evaluation of the training and testing performances. The important-feature analysis and performance analysis stages are important to optimize the model by tuning and retraining the models.
+Once the model is trained, the framework then facilitates important-feature analysis based on high-ranked features of the LightGBM algorithm. This includes adaptation of SHAP (SHapley Additive exPlanations) library which enables to evaluate the trained machine-learning models using the incorporated features using a game-theoretic approach [7]. This enables reasoning and prescription related to the hypothesis. The framework also facilitates evaluation of the training and testing performances. The important-feature analysis and performance analysis stages are important to optimize the model by tuning and retraining the models.
 
 ## Conclusion
 
-Many research data has been published related to COVID-19 and it is required for fast analysis of these data and communicate the insights (i.e., prescriptive analytics) to community to improve the health and wellbeing. Because of the high dimensionality of the data, data-science capabilities around this COVID-19 data analysis need to be enhanced. This proposed framework enables rapid prototyping of data-science modelling of COVID-19 data with countries statistics which effectively democratize COVID-19 related data science and analytics.
+Many research data has been published related to COVID-19 and it is required for fast analysis of these data and communicate the insights (i.e., prescriptive analytics) to the community to improve the health and wellbeing. Because of the high dimensionality of the data, data-science capabilities around this COVID-19 data analysis need to be enhanced. This proposed framework enables rapid prototyping of data-science modelling of COVID-19 data with countries statistics which effectively democratize COVID-19 related data science and analytics.
 
 ## Future Work
 
-There are many datasets emerging which will enhance the knowledge if they are properly analyzed in unified way. Following datasets are being planned to be incorporated with the proposed framework.
+Many datasets are emerging which will enhance the knowledge if they are properly analyzed in an unified way. Following datasets are being planned to be incorporated with the proposed framework.
 
-Further, we are planning to analyse the data in suburb level by incorporating the census data of countries.
+Further, we are planning to analyse the data in the suburb level by incorporating the census data of countries.
 
 ## References
 
