@@ -39,18 +39,18 @@ In Johns Hopkins University (JHU) and Worldometers.info open data for COVID-19, 
 
 On the other hand,  World Bank open data for countries is a general and versatile dateset which provides diversified statistics related to multiple topics. It is not developed focusing COVID-19 crisis. This data-set has countries' statistics related to the following 21 topics.
 
-Jupyter notebook with Python help to explore and prepare data efficiently. Throughout the framework, data is handled as Pandas data-frames. Python matplotlib and seaborn libraries are used as required to visualize and explore the data. Since World-Bank dataset has many features, exploratory analysis techniques are required to effectively prepare data for accurate modelling.
+Jupyter notebook with Python help to explore and prepare data efficiently. Throughout the framework, data is handled as Pandas data-frames. Python [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) libraries are used as required to visualize and explore the data. Since World-Bank dataset has many features, exploratory analysis techniques are required to effectively prepare data for accurate modelling.
 
 ![Image description](https://raw.githubusercontent.com/samarawickrama/COVID-19/master/Resources/Images/COVID-19%20Data%20Science%20Framework.png)
 
-The framework adopted LightGBM gradient-boosting decision-tree based machine learning algorithm to design and implement classification and regression models. This algorithm is being used quite effectively in industry to model structured data. It has following advantages [6]:
+The framework adopted [LightGBM](https://lightgbm.readthedocs.io/en/latest/) gradient-boosting decision-tree based machine learning algorithm to design and implement classification and regression models. This algorithm is being used quite effectively in industry to model structured data. It has following advantages [6]:
  - Faster training speed and higher efficiency,
  - Lower memory usage,
  - Better accuracy,
  - Support of parallel and GPU learning
  - Capable of handling large-scale data.
 
-Once the model is trained, the framework then facilitates important-feature analysis based on high-ranked features of the LightGBM algorithm. This includes adaptation of SHAP (SHapley Additive exPlanations) library which enables to evaluate the trained machine-learning models using the incorporated features using a game-theoretic approach [7]. This enables reasoning and prescription related to the hypothesis. The framework also facilitates evaluation of the training and testing performances. The important-feature analysis and performance analysis stages are important to optimize the model by tuning and retraining the models.
+Once the model is trained, the framework then facilitates important-feature analysis based on high-ranked features of the [LightGBM](https://shap.readthedocs.io/en/latest/) algorithm. This includes adaptation of [SHAP (SHapley Additive exPlanations)](https://shap.readthedocs.io/en/latest/) library which enables to evaluate the trained machine-learning models using the incorporated features using a game-theoretic approach [7]. This enables reasoning and prescription related to the hypothesis. The framework also facilitates evaluation of the training and testing performances. The important-feature analysis and performance analysis stages are important to optimize the model by tuning and retraining the models.
 
 ## Conclusion
 
