@@ -42,7 +42,7 @@ On the other hand,  World Bank open data for countries is a general and versatil
 Jupyter notebook with Python help to explore and prepare data efficiently. Throughout the framework, data is handled as Pandas data-frames. Python [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) libraries are used as required to visualize and explore the data. Since World-Bank dataset has many features, exploratory analysis techniques are required to effectively prepare data for accurate modelling.
 
 ![Image description](https://raw.githubusercontent.com/samarawickrama/COVID-19/master/Resources/Images/COVID-19%20Data%20Science%20Framework.png)
-**Fig. 1:** A Framework for rapid prototyping data-science modelling of COVID-19 data with countries’ data/statistics.
+**Fig. 1:** A framework for rapid prototyping data-science modelling of COVID-19 data with countries’ data/statistics.
 
 The framework adopted [LightGBM](https://lightgbm.readthedocs.io/en/latest/) gradient-boosting decision-tree based machine learning algorithm to design and implement classification and regression models. This algorithm is being used quite effectively in industry to model structured data. It has following advantages [6]:
  - Faster training speed and higher efficiency,
