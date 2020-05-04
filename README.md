@@ -13,7 +13,7 @@ This is a framework for rapid prototyping data-Science modelling of COVID-19 dat
 
 ## Adopt the Framework
 
-This framework is developed using Jupyter notebook and Python libraries. Users can install Jupyter notebook easily by installing [Anaconda](https://docs.anaconda.com/anaconda/install/). Any platform which supports Jupyter notebook can be used (e.g., AWS Sagemaker). The Jupyter notebook project is available in Github.
+This framework is developed using Jupyter notebook and Python libraries. Users can install Jupyter notebook easily by installing [Anaconda](https://docs.anaconda.com/anaconda/install/). Any platform which supports Jupyter notebook can be used (e.g., AWS Sagemaker). The Jupyter notebook project is available in here.
 
 ## Datasets
 
