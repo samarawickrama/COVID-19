@@ -1,7 +1,7 @@
-# [A Framework for Rapid Prototyping Data-Science Modelling of COVID-19 Data with Countries' Statistics](https://towardsdatascience.com/a-framework-for-rapid-prototyping-data-science-modelling-of-covid-19-data-with-countries-cd8be3f35ad8)
+# [A Framework for Rapid Prototyping Data-Science Modelling of COVID-19 Data with Countries' Statistics](https://towardsdatascience.com/a-framework-for-rapid-prototyping-data-science-modelling-of-covid-19-data-with-countries-cd8be3f35ad8){:target="_blank" rel="noopener"}
 ![Image description](https://raw.githubusercontent.com/samarawickrama/COVID-19/master/Resources/Images/GitHub_Covid_Logo.png)
 
-This work is published in [towardsdatascience.com](https://towardsdatascience.com/a-framework-for-rapid-prototyping-data-science-modelling-of-covid-19-data-with-countries-cd8be3f35ad8)
+This work is published in [towardsdatascience.com](https://towardsdatascience.com/a-framework-for-rapid-prototyping-data-science-modelling-of-covid-19-data-with-countries-cd8be3f35ad8){:target="_blank" rel="noopener"}
 
 ## Introduction
 
